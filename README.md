@@ -79,10 +79,12 @@ From the modern browser of your choice, visit:
 
 4.1 http://localhost:3001
 Deployed App
-This Tech Blog app has been deployed on Heroku and is available here.
+This Tech Blog app has been deployed on Heroku and is available here. https://intense-dawn-84284.herokuapp.com/
 
 Demo
 Homepage in a logged-out state, with appropriate links displayed. Comments on articles cannot be updated or deleted at this stage. After logging in, the option to add comments is made available.
+![28A4D650-C8AD-4300-B99A-2108DF09A1B2_1_105_c](https://user-images.githubusercontent.com/80792502/132409267-098baf0c-0f33-4f0f-8015-d5ab6a6bd4f0.jpeg)
+
 
 Tech Blog Homepage.
 
@@ -95,7 +97,7 @@ The Dashboard while in a logged-in state. The user can add new articles, as well
 Tech Blog Add Update Delete Articles.
 
 MIT License
-©2021 Cailin Bell Wold
+©2021 Alice Waweru
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
@@ -109,20 +111,7 @@ For inquiries, please contact Alice Waweru.
 About
 UW Full-Stack Bootcamp Homework, Week 14, MVC: Tech Blog
 
-Resources
- Readme
-License
- MIT License
-Releases
-No releases published
-Packages
-No packages published
-Environments 1
- tech-blog-cailin Active
-Languages
-JavaScript
-53.2%
- 
+
 Handlebars
 34.4%
  
