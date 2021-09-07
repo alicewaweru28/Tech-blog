@@ -84,6 +84,10 @@ This Tech Blog app has been deployed on Heroku and is available here. https://in
 Demo
 Homepage in a logged-out state, with appropriate links displayed. Comments on articles cannot be updated or deleted at this stage. After logging in, the option to add comments is made available.
 ![28A4D650-C8AD-4300-B99A-2108DF09A1B2_1_105_c](https://user-images.githubusercontent.com/80792502/132409267-098baf0c-0f33-4f0f-8015-d5ab6a6bd4f0.jpeg)
+![FADE42C7-BF0B-4132-B761-3AB6D9AF2DC9_1_105_c](https://user-images.githubusercontent.com/80792502/132409505-e8fd599a-a6d6-4811-a633-408bfdd5fa13.jpeg)
+![3AC6855D-922F-4D3F-81F1-7B277FCAFCB1_1_105_c](https://user-images.githubusercontent.com/80792502/132409511-77918742-980a-4f66-9039-fec3a375f547.jpeg)
+![F05B604F-F94B-438A-B15A-D5CA51A3448E_1_105_c](https://user-images.githubusercontent.com/80792502/132409517-35dd14b5-b42a-4798-a48e-39883f9d99e2.jpeg)
+
 
 
 Tech Blog Homepage.
